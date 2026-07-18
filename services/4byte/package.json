@@ -32,7 +32,7 @@
     "chalk": "4.1.2",
     "cors": "2.8.6",
     "dotenv": "16.6.1",
-    "ethers": "6.16.0",
+    "ethers": "6.17.0",
     "express": "5.2.1",
     "http-status-codes": "2.3.0",
     "pg": "8.20.0",
